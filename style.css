@@ -48,7 +48,7 @@ p {
   font-weight: 400;
 }
 .section2{
-	min-height: 2vh;
+	height: 70vh;
 }
 .left-s2{
 	width: 45%;
@@ -72,4 +72,109 @@ p {
 	font-size: 25px;
 	color: black;
 	padding: 0;
+}
+.section3{
+	height: 280px;
+}
+.container-s3{
+	width: 80vw;
+	float: right;
+}
+.section3 h1{
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 15px;
+	color: white;
+	padding: 0;
+}
+
+.section3 p{
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-size: 8px;
+	margin-left: 15px;
+	line-height: 1.5;
+}
+.section3 a{
+	text-decoration: none;
+	margin-top: 20px;
+	color: white;
+}
+.box1{
+	width: 200px;
+	height: 140px;
+	background-color: #f5989d;
+	float: left;
+}
+.box2{
+	width: 200px;
+	height: 140px;
+	background-color: #615f7d;
+	float: left;
+}
+.box3{
+	width: 200px;
+	height: 140px;
+	background: url(img/small-s3.png);
+
+	background-size: contain;
+	float: left;
+}
+.box4{
+	width: 142px;
+	height: 140px;
+	background-color: #bd8cbf;
+	float: left;
+}
+.box5{
+	width: 400px;
+	height: 140px;
+	background-color: green;
+	background: url(img/large-s3.png);
+
+	background-size: contain;
+	float: left;
+}
+.box6{
+	width: 200px;
+	height: 140px;
+	background-color: #82ca9c;
+	float: left;
+}
+.box7{
+	width: 142px;
+	height: 140px;
+	background-color: black;
+	float: left;
+	background: url(img/extra-s3.png);
+
+	background-size: contain;
+}
+.list{
+	width: 25%;
+	float: left;
+}
+.section4 h1{
+	margin-top: 60px;
+	font-size: 25px;
+	color: black;
+	padding: 0;
+	padding-right: 400px;
+	margin-bottom: 40px;
+}
+.section4 h2{
+  font-size: 9px;
+  font-family: "Open Sans";
+  color: rgb(103, 103, 109);
+  margin: 0;
+  padding: 0;
+}
+.section4 p{
+font-size: 9px;
+	color: #959595;
+	margin: 0;
+	padding: 0;
+	padding-right: 10px;
 }
