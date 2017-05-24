@@ -168,8 +168,10 @@ p {
   font-size: 9px;
   font-family: "Open Sans";
   color: rgb(103, 103, 109);
+  text-align: left;
   margin: 0;
   padding: 0;
+  margin-bottom: 15px;
 }
 .section4 p{
 font-size: 9px;
@@ -177,4 +179,129 @@ font-size: 9px;
 	margin: 0;
 	padding: 0;
 	padding-right: 10px;
+}
+.section4{
+	height: 350px;
+}
+.section5{
+	background: url("img/back-s4.png") no-repeat;
+	height: 100vh;
+}
+
+.section5 p{
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-size: 8px;
+	line-height: 1.5;
+	text-align: left;
+}
+.section5 a{
+	text-decoration: none;
+	margin-top: 20px;
+	color: white;
+}
+.section5 h1{
+      font-size: 50px;
+    font-family: "Open Sans";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-align: left;
+    margin: 0;
+    font-weight: 100;
+    margin-top: 300px;
+    float: left;
+    padding: 0;
+    padding-right: 300px;
+    margin-bottom: 20px;
+}
+.section6{
+	height: 50vh;
+	background-color: #82ca9c;
+}
+.block{
+	width: 33%;
+	float: left;
+}
+.section6 h1{
+	font-family: "Open Sans";
+	margin-top: 60px;
+	font-size: 25px;
+	color: white;
+	padding: 0;
+	padding-right: 400px;
+	margin-bottom: 40px;
+}
+.section6 h2{
+  font-size: 9px;
+  font-family: "Open Sans";
+  color: white;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 15px;
+}
+.section6 p{
+font-size: 9px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	padding-right: 15px;
+}
+.section7{
+	height: 100vh;
+	background-color: #f6f7fa;
+}
+.payway{
+	margin-top: 100px;
+	width: 45%;
+	float: left;
+	padding: 20px;
+}
+.payway:hover{
+	background-color: white;
+	box-shadow: 0 0 50px black;
+}
+.text{
+	color: #8297a7;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.p1{
+  font-size: 7px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+
+  background: #bd8cbf;
+  border:1px solid #bd8cbf;
+  padding: 2px 8px 2px 8px;
+  border-radius: 3px;
+}
+
+.p2{
+  font-size: 9px;
+  font-family: "Open Sans";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1.69;
+  text-align: center;
+
+  background: #82ca9c;
+  border:1px solid #82ca9c;
+  padding: 7px 20px 7px 20px;
+  border-radius: 3px;
+}
+.section7 h1{
+	font-family: "Open Sans";
+	font-size: 25px;
+	color: black;
+	padding: 0;
+	margin: 0;
+}
+.section7 img{
+	float: left;
 }
