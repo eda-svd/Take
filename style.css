@@ -249,11 +249,11 @@ font-size: 9px;
 	padding-right: 15px;
 }
 .section7{
-	height: 100vh;
+	height: 60vh;
 	background-color: #f6f7fa;
 }
 .payway{
-	margin-top: 100px;
+	margin-top: 50px;
 	width: 45%;
 	float: left;
 	padding: 20px;
@@ -304,4 +304,72 @@ font-size: 9px;
 }
 .section7 img{
 	float: left;
+}
+.section8{
+	height: 60vh;
+	background-color: #192431;
+}
+
+.section8 h2{
+  font-size: 9px;
+  font-family: "Open Sans";
+  color: white;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 15px;
+}
+.section8 p{
+font-size: 9px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	padding-right: 15px;
+}
+.footer-list{
+	margin-top: 40px;
+width: 33%;
+float: left;
+}
+
+.block50{
+	margin-top: 50px;
+	width: 45%;
+	padding:20px;
+	float: left;
+}
+input{
+  background: #f6f7fa;
+  border:1px solid #f6f7fa;
+  padding: 14px 115px 14px 14px;
+  border-radius: 3px;
+  float: left;
+}
+.submit-btn{
+	display: inline;
+	float: left;
+	height: 45px;
+}
+.spam{
+	color: #57697f !important;
+}
+ul{
+  padding: 0;
+  margin: 0;
+}
+li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  text-align:left;
+}
+.section8 a{
+	font-family: "Open Sans";
+	text-decoration: none;
+font-size: 9px;
+	color: white;
+	margin: 0;
+	padding: 0;
+	padding-right: 15px;
+}
 }
